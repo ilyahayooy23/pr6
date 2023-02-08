@@ -1,0 +1,17 @@
+C:\Users\ilyahayooy23\Desktop\шкила\c++ c#\pr6\pr6\bin\Debug\net6.0\pr6.exe
+C:\Users\ilyahayooy23\Desktop\шкила\c++ c#\pr6\pr6\bin\Debug\net6.0\pr6.deps.json
+C:\Users\ilyahayooy23\Desktop\шкила\c++ c#\pr6\pr6\bin\Debug\net6.0\pr6.runtimeconfig.json
+C:\Users\ilyahayooy23\Desktop\шкила\c++ c#\pr6\pr6\bin\Debug\net6.0\pr6.dll
+C:\Users\ilyahayooy23\Desktop\шкила\c++ c#\pr6\pr6\bin\Debug\net6.0\pr6.pdb
+C:\Users\ilyahayooy23\Desktop\шкила\c++ c#\pr6\pr6\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ilyahayooy23\Desktop\шкила\c++ c#\pr6\pr6\obj\Debug\net6.0\pr6.csproj.AssemblyReference.cache
+C:\Users\ilyahayooy23\Desktop\шкила\c++ c#\pr6\pr6\obj\Debug\net6.0\pr6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyahayooy23\Desktop\шкила\c++ c#\pr6\pr6\obj\Debug\net6.0\pr6.AssemblyInfoInputs.cache
+C:\Users\ilyahayooy23\Desktop\шкила\c++ c#\pr6\pr6\obj\Debug\net6.0\pr6.AssemblyInfo.cs
+C:\Users\ilyahayooy23\Desktop\шкила\c++ c#\pr6\pr6\obj\Debug\net6.0\pr6.csproj.CoreCompileInputs.cache
+C:\Users\ilyahayooy23\Desktop\шкила\c++ c#\pr6\pr6\obj\Debug\net6.0\pr6.csproj.CopyComplete
+C:\Users\ilyahayooy23\Desktop\шкила\c++ c#\pr6\pr6\obj\Debug\net6.0\pr6.dll
+C:\Users\ilyahayooy23\Desktop\шкила\c++ c#\pr6\pr6\obj\Debug\net6.0\refint\pr6.dll
+C:\Users\ilyahayooy23\Desktop\шкила\c++ c#\pr6\pr6\obj\Debug\net6.0\pr6.pdb
+C:\Users\ilyahayooy23\Desktop\шкила\c++ c#\pr6\pr6\obj\Debug\net6.0\pr6.genruntimeconfig.cache
+C:\Users\ilyahayooy23\Desktop\шкила\c++ c#\pr6\pr6\obj\Debug\net6.0\ref\pr6.dll
